@@ -152,8 +152,6 @@ function App(props) {
     )
   }
 
-
-
   /*
   const addressFromENS = useResolveName(mainnetProvider, "austingriffith.eth");
   console.log("🏷 Resolved austingriffith.eth as:",addressFromENS)
